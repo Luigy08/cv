@@ -1,0 +1,105 @@
+.todo{
+	position: absolute;
+	margin-left:150px
+}
+#superior{
+	margin-top: 30px;
+	color: white;
+	width: 1050px;
+	height: 142px;
+	float: left;
+	text-align: right;
+	background-image: url("f.jpg");
+	text-align: center;
+}
+#izq{
+	display: flex;
+	flex-direction: column;
+	margin-left: 30px;
+	background-image: url("fondo2.jpg");
+	float: left;
+	position: absolute;
+	width: 300px;
+}
+#der{
+	margin-left: 380px;
+	margin-top: 180px;
+
+	display: flex;
+	flex-direction: column;
+}
+#der div{
+	margin-top: 20px;	
+}
+#perfil{
+	width: 160px;
+	height: 140px;
+	background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+    
+}
+#fperfil{
+	height: 140px;
+	width: 160px;
+	margin: 45px auto;
+}
+#titleRe{
+	background-image: url("f.jpg");
+	text-align: center;
+}
+#titleDatos{
+	background-image: url("f.jpg");
+	text-align: center;
+}
+#titleMi{
+	background-image: url("f.jpg");
+	text-align: center;
+}
+#titleEx{
+	background-image: url("f.jpg");
+	text-align: center;
+	color: white;
+}
+#titleHo{
+	background-image: url("f.jpg");
+	text-align: center;
+	color: white;
+}
+#titleHa{
+	width: 600px;
+	background-image: url("f.jpg");
+	text-align: center;
+	color: white;
+}
+#exHo{
+	display: flex;
+	flex-direction: row;
+}
+#Hobbies{
+	margin-left: 200px;
+}
+#datos div{
+	margin-left: 20px;
+	margin-right: 20px;
+	color: white;
+}
+#titleRow{
+
+}
+.tabla{
+	margin-left: 150px;
+
+}
+.tabla th{
+	border-style: solid;
+	border-width: 1.5px;
+}
+.tabla td{
+	border-style: solid;
+	border-width: 1px;
+	text-align: center;
+}
+div{
+}
